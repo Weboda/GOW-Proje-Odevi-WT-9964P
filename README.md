@@ -1,9 +1,9 @@
 ### Features
-
+- Responsive design
 - Bootstrap 5.3.0 version was used.
 - Form submission was done with the help of formssubmit.co
 - Images are available for free.
-- Responsive design
+
 
 |  God of War X Game App	  |
 | :------------: |
